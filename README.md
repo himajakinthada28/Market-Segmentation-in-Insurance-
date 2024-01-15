@@ -1,6 +1,4 @@
 # Market-Segmentation-in-Insurance-
-Market Segmentation in Insurance 
-Overview
 We aim to understand and discover patterns, structures, and relationships in the data.
 We perform the Exploratory data analysis, Data Cleaning and Visualization.
 
